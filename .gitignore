@@ -1,0 +1,15 @@
+# Go
+bin/
+*.exe
+
+# Docker logs
+*.log
+
+# Env
+.env
+
+# DB local
+pgdata/
+
+# OS
+.DS_Store
